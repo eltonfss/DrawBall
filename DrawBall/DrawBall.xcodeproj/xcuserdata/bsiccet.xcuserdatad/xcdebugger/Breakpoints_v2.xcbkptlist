@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBall/GameScene.swift"
+            timestampString = "453857714.087202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBall.GameScene.ball.setter : Swift.Optional&lt;ObjectiveC.SKShapeNode&gt;"
+                  moduleName = "DrawBall"
+                  urlString = "file:///Users/bsiccet/Desktop/Projetos/DrawBall/DrawBall/GameScene.swift"
+                  timestampString = "453857898.367379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBall.GameScene.ball.materializeForSet : Swift.Optional&lt;ObjectiveC.SKShapeNode&gt;"
+                  moduleName = "DrawBall"
+                  urlString = "file:///Users/bsiccet/Desktop/Projetos/DrawBall/DrawBall/GameScene.swift"
+                  timestampString = "453857898.367494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBall.GameScene.init (DrawBall.GameScene.Type)(size : C.CGSize) -&gt; DrawBall.GameScene"
+                  moduleName = "DrawBall"
+                  urlString = "file:///Users/bsiccet/Desktop/Projetos/DrawBall/DrawBall/GameScene.swift"
+                  timestampString = "453857898.367601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBall.GameScene.init (DrawBall.GameScene.Type)() -&gt; DrawBall.GameScene"
+                  moduleName = "DrawBall"
+                  urlString = "file:///Users/bsiccet/Desktop/Projetos/DrawBall/DrawBall/GameScene.swift"
+                  timestampString = "453857898.367768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBall.GameScene.init (DrawBall.GameScene.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;DrawBall.GameScene&gt;"
+                  moduleName = "DrawBall"
+                  urlString = "file:///Users/bsiccet/Desktop/Projetos/DrawBall/DrawBall/GameScene.swift"
+                  timestampString = "453857898.367862"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
